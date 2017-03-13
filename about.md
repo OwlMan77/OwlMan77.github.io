@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Welcome to my site.
+Welcome to my blog. 
